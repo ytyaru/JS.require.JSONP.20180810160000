@@ -19,6 +19,7 @@
 Library|License|Copyright
 -------|-------|---------
 [require](http://requirejs.org/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/requirejs/blob/master/LICENSE)
+[jQuery](https://jquery.com/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright JS Foundation and other contributors](https://jquery.org/license/)
 [JsonToHtmlTable](https://github.com/c-cho/JsonToHtmlTable)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2017 CHO](https://github.com/c-cho/JsonToHtmlTable/blob/master/LICENSE)
 
 　[JsonToHtmlTable](https://github.com/c-cho/JsonToHtmlTable)はrequire.js(AMD方式)でモジュール化するようコードを改変した。（元はNode.js(CommonJS方式)）
